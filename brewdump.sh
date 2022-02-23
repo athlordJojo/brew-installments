@@ -5,6 +5,7 @@ function syncToGit(){
 	git push origin main
 }
 pushd /Users/joanraychouni/gitprojects/brew-installments
+rm ./Brewfile
 brew bundle dump --file=./Brewfile  --force
 
 git add .
