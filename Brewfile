@@ -78,8 +78,6 @@ cask "whatsapp"
 mas "AdBlock Pro", id: 1018301773
 mas "Cloud Battery", id: 1481005137
 mas "feedly", id: 865500966
-mas "GarageBand", id: 682658836
-mas "iMovie", id: 408981434
 mas "Jolt of Caffeine", id: 1437130425
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
