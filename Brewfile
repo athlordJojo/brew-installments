@@ -34,9 +34,9 @@ brew "nghttp2"
 brew "node"
 brew "socat"
 brew "openshift-cli"
-brew "python@3.10"
+brew "python@3.10", link: false
 brew "pre-commit"
-brew "python@3.8"
+brew "python@3.8", link: false
 brew "sops"
 brew "srt"
 brew "watch"
