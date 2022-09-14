@@ -11,7 +11,7 @@ brew "bash-completion"
 brew "guile"
 brew "unbound"
 brew "gnutls"
-brew "emacs", restart_service: true
+brew "emacs"
 brew "git"
 brew "git-extras"
 brew "gnupg"
