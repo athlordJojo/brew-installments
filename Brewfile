@@ -88,5 +88,4 @@ mas "Pages", id: 409201541
 mas "Pocket", id: 568494494
 mas "Polyglot", id: 1471801525
 mas "Trello", id: 1278508951
-mas "Twitter", id: 1482454543
 mas "Xcode", id: 497799835
