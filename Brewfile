@@ -87,3 +87,22 @@ mas "Pocket", id: 568494494
 mas "Polyglot", id: 1471801525
 mas "Trello", id: 1278508951
 mas "Xcode", id: 497799835
+vscode "asciidoctor.asciidoctor-vscode"
+vscode "cstuder.gitlab-ci-validator"
+vscode "GitLab.gitlab-workflow"
+vscode "mechatroner.rainbow-csv"
+vscode "ms-azuretools.vscode-docker"
+vscode "ms-kubernetes-tools.vscode-kubernetes-tools"
+vscode "ms-vscode-remote.remote-containers"
+vscode "redhat.java"
+vscode "redhat.vscode-yaml"
+vscode "shd101wyy.markdown-preview-enhanced"
+vscode "VisualStudioExptTeam.intellicode-api-usage-examples"
+vscode "VisualStudioExptTeam.vscodeintellicode"
+vscode "vscjava.vscode-java-debug"
+vscode "vscjava.vscode-java-dependency"
+vscode "vscjava.vscode-java-pack"
+vscode "vscjava.vscode-java-test"
+vscode "vscjava.vscode-maven"
+vscode "waderyan.gitblame"
+vscode "yzhang.markdown-all-in-one"
