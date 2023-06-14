@@ -81,6 +81,7 @@ mas "Kindle", id: 405399194
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 mas "Pocket", id: 568494494
 mas "Polyglot", id: 1471801525
 mas "Trello", id: 1278508951
