@@ -78,7 +78,6 @@ cask "whatsapp"
 mas "AdBlock Pro", id: 1018301773
 mas "feedly", id: 865500966
 mas "Keynote", id: 409183694
-mas "Kindle Classic", id: 405399194
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
