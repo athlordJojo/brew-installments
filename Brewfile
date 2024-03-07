@@ -73,7 +73,6 @@ cask "visual-studio-code"
 cask "visual-studio-code-insiders"
 cask "visualvm"
 cask "whatsapp"
-mas "AdBlock Pro", id: 1018301773
 mas "AdGuard for Safari", id: 1440147259
 mas "feedly", id: 865500966
 mas "Keynote", id: 409183694
