@@ -74,7 +74,6 @@ cask "visual-studio-code-insiders"
 cask "visualvm"
 cask "whatsapp"
 mas "AdGuard for Safari", id: 1440147259
-mas "feedly", id: 865500966
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
