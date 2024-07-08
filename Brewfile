@@ -70,7 +70,7 @@ cask "sourcetree"
 cask "spotify"
 cask "stats"
 cask "visual-studio-code"
-cask "visual-studio-code-insiders"
+cask "visual-studio-code@insiders"
 cask "visualvm"
 cask "whatsapp"
 mas "AdGuard for Safari", id: 1440147259
