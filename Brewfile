@@ -30,11 +30,10 @@ brew "maven-completion"
 brew "mkcert"
 brew "nghttp2"
 brew "node"
-brew "socat"
-brew "openshift-cli"
 brew "python@3.10", link: false
 brew "pre-commit"
 brew "python@3.8", link: false
+brew "socat"
 brew "sops"
 brew "srt"
 brew "watch"
