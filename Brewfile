@@ -73,6 +73,7 @@ cask "visual-studio-code"
 cask "visual-studio-code@insiders"
 cask "visualvm"
 cask "whatsapp"
+mas "Xcode", id: 497799835
 vscode "asciidoctor.asciidoctor-vscode"
 vscode "cstuder.gitlab-ci-validator"
 vscode "gitlab.gitlab-workflow"
