@@ -73,6 +73,14 @@ cask "visual-studio-code"
 cask "visual-studio-code@insiders"
 cask "visualvm"
 cask "whatsapp"
+mas "AdGuard for Safari", id: 1440147259
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Pocket", id: 568494494
+mas "Trello", id: 1278508951
 mas "Xcode", id: 497799835
 vscode "asciidoctor.asciidoctor-vscode"
 vscode "cstuder.gitlab-ci-validator"
