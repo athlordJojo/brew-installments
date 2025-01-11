@@ -9,7 +9,7 @@ brew "bash-completion"
 brew "guile"
 brew "unbound"
 brew "gnutls"
-brew "emacs", restart_service: true
+brew "emacs", restart_service: :changed
 brew "git"
 brew "git-extras"
 brew "gnupg"
