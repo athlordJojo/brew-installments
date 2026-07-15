@@ -80,7 +80,6 @@ cask "adobe-acrobat-reader"
 cask "aerial"
 # Backup and restore SD cards, USB drives, external HDD, etc
 cask "applepi-baker"
-# GUI app for Homebrew
 cask "cakebrew"
 # Terminal emulator mimicking the old cathode display
 cask "cool-retro-term"
@@ -122,7 +121,6 @@ cask "postman"
 cask "processing"
 # Official desktop client for Rocket.Chat
 cask "rocket-chat"
-# Code source explorer
 cask "sourcetrail"
 # Graphical client for Git version control
 cask "sourcetree"
