@@ -87,12 +87,18 @@ cask "cool-retro-term"
 cask "diffmerge"
 # App to build and share containerised applications and microservices
 cask "docker-desktop"
+# Online diagram software
+cask "drawio"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
+# Web browser
+cask "firefox"
 # GIT client
 cask "fork"
 # Hosts file editor/manager
 cask "gas-mask"
+# Java IDE by JetBrains
+cask "intellij-idea"
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
 # Tools to manage, monitor, profile and troubleshoot Java applications
