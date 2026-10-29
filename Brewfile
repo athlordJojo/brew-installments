@@ -46,22 +46,34 @@ brew "leptonica"
 brew "libass"
 # Blu-Ray disc playback library for media players like VLC
 brew "libbluray"
+# Securely transfers data between computers
+brew "magic-wormhole"
+# Mac App Store command-line interface
+brew "mas"
 # Bash completion for Maven
 brew "maven-completion"
+# Simple tool to make locally trusted development certificates
+brew "mkcert"
+# HTTP/2 C Library
+brew "nghttp2"
+# SOcket CAT: netcat on steroids
+brew "socat"
+# OpenShift command-line interface tools
+brew "openshift-cli"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.10", link: false
 # Framework for managing multi-language pre-commit hooks
 brew "pre-commit"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.8"
-# SOcket CAT: netcat on steroids
-brew "socat"
 # Editor of encrypted files
 brew "sops"
 # Secure Reliable Transport
 brew "srt"
 # Executes a program periodically, showing output fullscreen
 brew "watch"
+# Internet file retriever
+brew "wget"
 # View, print, and comment on PDF documents
 cask "adobe-acrobat-reader"
 # Apple TV Aerial screensaver
