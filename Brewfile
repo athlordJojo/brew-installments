@@ -93,7 +93,7 @@ cask "drawio"
 cask "dropbox"
 # Web browser
 cask "firefox"
-# GIT client
+# Git client
 cask "fork"
 # Hosts file editor/manager
 cask "gas-mask"
